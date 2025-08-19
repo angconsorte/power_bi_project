@@ -1,6 +1,6 @@
-# Data Jobs Dashboard with Power BI
+# Creating and Analyzing Dashboards with Power BI
 
-This is a guided project that demonstrates the creation of a Power BI dashboard designed to provide valuable insights into the 2024 data job market. This dashboard solves the problem of scattered job data by providing a centralized platform to explore job market trends, compensation, and job counts.
+This is a guided project that demonstrates the creation and analysis of a Power BI dashboard designed to provide valuable insights into the 2024 data job market. This dashboard solves the problem of scattered job data by providing a centralized platform to explore job market trends, compensation, and job counts.
 
 ## Key Features:
 - **Data Transformation (ETL) with Power Query**: Data was cleaned, shaped, and prepared for analysis, handling missing values, changing data types, and creating new calculated columns.
@@ -34,4 +34,5 @@ The dashboard is split into two main pages:
 
 ## Conclusion:
 This Power BI dashboard transforms raw job posting data into a dynamic tool for career analysis. It empowers users to slice, filter, and explore job market trends, compensation, and job distribution, making it an invaluable resource for anyone exploring or transitioning into data-related careers. The project highlights proficiency in key Power BI skills, showcasing both technical expertise in data modeling and design, as well as the ability to present complex data in an intuitive and interactive format.
+
 
